@@ -1,0 +1,1 @@
+{"uuid":"120c522b-494a-4d06-998b-e694a770bcc0","name":"Scenario: Check if user is created when only mandatory fields are entered with valid data in user module","children":["2cf090e2-5e11-441b-a968-d1de315fce93"],"befores":[],"afters":[],"start":1714095020856,"stop":1714095020875}

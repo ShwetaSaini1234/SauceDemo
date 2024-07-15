@@ -1,0 +1,1 @@
+{"uuid":"42dac1cc-e085-4bfe-b7ec-11b71bd0d114","name":"Scenario: check if user is created when invalid data is entered in all of the fields in user module","children":["6cd131d4-fa03-4575-99ed-b61e846cf820"],"befores":[],"afters":[],"start":1714090844137,"stop":1714090844160}
